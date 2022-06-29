@@ -1,6 +1,10 @@
 # Desenvolvimento-de-banco-de-dados-de-movimentos-gestos-de-mao-atraves-de-sinais-EMG
 Trabalho de Conclusão de Curso apresentado como requisito parcial para obtenção do título de Bacharel em Engenharia Elétrica, pelo Curso de Engenharia Elétrica da Universidade do Vale do Rio dos Sinos - UNISINOS
 
+## Resumo:
+
+Com o avanço da Engenharia e Medicina, pessoas com deficiências físicas buscam utilizar desses estudos, alternativas para suprimir suas dificuldades no cotidiano e para se integrar na sociedade. O desenvolvimento de próteses mecatrônicas controladas através da mente do usuário, aparenta ser uma dessas alternativas. Com isso em mente, este trabalho aborda o desenvolvimento de algumas etapas de um sistema de prótese, controlada por sinais de eletromiografia por superfície (sEMG), que são: Coleta, armazenamento em um banco de dados e rotulagem através de técnicas de filtragem. O sistema desenvolvido foi capaz de coletar 17 sinais característicos de movimento de mão e rotulá-los, conforme a intenção emitida pelo cérebro do usuário. Para a realização desse sistema, foi utilizado um aparato experimental de 1 canal, com uso de eletrodos não invasivos, e com taxa de amostragem em 1 kHz. O experimento apresentou resultados satisfatórios para o banco de dados, atendendo aos padrões estabelecidos de armazenamento semelhante ao banco de dados do Ninapro.
+
 ## Arquivo de leitura:
 
 TCC_Lucas_Beloni_Final.pdf - Trabalho de conclusão de curso.
